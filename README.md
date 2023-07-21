@@ -2,29 +2,47 @@
 A curated list of  @tailwindcss  libraries
 
 
-1. **Headless UI**: A set of completely unstyled, fully accessible UI components for building custom designs with Tailwind CSS.
-   - GitHub: [https://github.com/tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
+# Awesome Tailwind CSS
 
-2. **Tailwind UI**: A premium set of UI components and templates built by the creators of Tailwind CSS.
-   - Website: [https://tailwindui.com/](https://tailwindui.com/)
+A curated list of Tailwind CSS libraries, plugins, and other useful content.
 
-3. **Forms**: A collection of beautiful form elements designed for Tailwind CSS.
-   - GitHub: [https://github.com/tailwindlabs/forms](https://github.com/tailwindlabs/forms)
+## Libraries
 
-4. **Heroicons**: A set of free MIT-licensed high-quality SVG icons for your projects.
-   - GitHub: [https://github.com/tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
+* [Flowbite](https://flowbite.com/) - A free and open-source component library built with Tailwind CSS.
+* [Headless UI](https://headlessui.dev/) - A free and open-source component library built with Tailwind CSS.
+* [Radix UI](https://radix-ui.com/) - A free and open-source component library built with Tailwind CSS.
+* [Material Tailwind](https://materialtailwind.com/) - A free and open-source component library that brings the Material Design components to Tailwind CSS.
+* [Meraki UI](https://merakiui.com/) - A free and open-source component library built with Tailwind CSS.
+* [Sailboat UI](https://sailboat.dev/) - A free and open-source component library built with Tailwind CSS.
+* [Kometa](https://kometa.dev/) - A free and open-source component library built with Tailwind CSS.
+* [Daisy UI](https://daisyui.netlify.app/) - A free and open-source component library built with Tailwind CSS.
+* [Hyper UI](https://hyper.design/) - A free and open-source component library built with Tailwind CSS.
+* [Tailwind UI](https://tailwindui.com/) - A premium set of UI components and templates built by the creators of Tailwind CSS.
+* [Forms](https://github.com/tailwindlabs/forms) - A collection of beautiful form elements designed for Tailwind CSS.
+* [Heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for your projects.
+* [Typicons](https://github.com/stephenhutchings/typicons.font) - A set of free-to-use vector icons in various formats.
+* [Font Awesome](https://fontawesome.com/) - A popular library for scalable vector icons that can be customized with CSS.
+* [Line Awesome](https://github.com/icons8/line-awesome) - A free alternative to Font Awesome, providing a collection of beautiful icons.
+* [Tailwind CSS Typography](https://github.com/tailwindcss/typography) - A library to enhance the typography of your Tailwind projects.
+* [Tailwind CSS Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - A plugin to create responsive aspect ratio containers.
+* [Tailwind CSS Multi-Select](https://github.com/estevanmaito/tailwindcss-multi-select) - A highly customizable multi-select component for Tailwind CSS.
+* [Tailwind CSS Safe Links](https://github.com/auditool/tailwindcss-safe-links) - A plugin to add rel="noopener" attribute to external links for improved security.
+* [Tailwind CSS Typography Plugin](https://github.com/tailwindlabs/tailwindcss-typography) - A plugin to bring better typography defaults to your Tailwind project.
 
-5. **Typicons**: A set of free-to-use vector icons in various formats.
-   - GitHub: [https://github.com/stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font)
+## Plugins
 
-6. **Font Awesome**: A popular library for scalable vector icons that can be customized with CSS.
-   - Website: [https://fontawesome.com/](https://fontawesome.com/)
+* [Tailwind CSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) - A plugin that enables you to use Tailwind CSS in a JIT (Just-in-Time) mode.
+* [Tailwind CSS IntelliSense](https://github.com/tailwindlabs/tailwindcss-intellisense) - A plugin that provides IntelliSense support for Tailwind CSS in VS Code.
+* [Tailwind CSS PostCSS Preset](https://github.com/tailwindcss/postcss-preset-tailwind) - A postcss preset that helps you to use Tailwind CSS with PostCSS.
 
-7. **Line Awesome**: A free alternative to Font Awesome, providing a collection of beautiful icons.
-   - GitHub: [https://github.com/icons8/line-awesome](https://github.com/icons8/line-awesome)
+## Resources
 
-8. **Tailwind CSS Typography**: A library to enhance the typography of your Tailwind projects.
-   - GitHub: [https://github.com/tailwindcss/typography](https://github.com/tailwindcss/typography)
+* [Tailwind CSS Documentation](https://tailwindcss.com/docs/) - The official documentation for Tailwind CSS.
+* [Tailwind CSS Tutorials](https://github.com/tailwindlabs/tailwindcss/wiki/Tutorials) - A collection of tutorials on how to use Tailwind CSS.
+* [Tailwind CSS Community Forum](https://community.tailwindcss.com/) - A forum where you can ask questions and get help from other Tailwind CSS users.
+
+I hope this helps!
+
 
 9. **Tailwind CSS Aspect Ratio**: A plugin to create responsive aspect ratio containers.
    - GitHub: [https://github.com/tailwindlabs/tailwindcss-aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
