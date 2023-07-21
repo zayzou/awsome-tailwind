@@ -1,4 +1,4 @@
-# awsome-tailwind
+# Awsome-tailwind
 A curated list of  @tailwindcss  libraries
 
 
