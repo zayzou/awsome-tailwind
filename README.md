@@ -1,7 +1,3 @@
-# Awsome-tailwind
-A curated list of  @tailwindcss  libraries
-
-
 # Awesome Tailwind CSS
 
 A curated list of Tailwind CSS libraries, plugins, and other useful content.
