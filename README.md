@@ -1,4 +1,4 @@
-# Awesome Tailwind CSS ✨
+# Awesome Tailwind CSS ✨ 
 
 A curated list of Tailwind CSS libraries, plugins, and other useful content.
 
