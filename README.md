@@ -1,8 +1,8 @@
-# Awesome Tailwind CSS ✨ 
+# Awesome Tailwind CSS 😎
 
 A curated list of Tailwind CSS libraries, plugins, and other useful content.
 
-## Libraries
+## Libraries 📚
 
 * [Flowbite](https://flowbite.com/) - A free and open-source component library built with Tailwind CSS.
 * [Headless UI](https://headlessui.dev/) - A free and open-source component library built with Tailwind CSS.
@@ -13,6 +13,7 @@ A curated list of Tailwind CSS libraries, plugins, and other useful content.
 * [Kometa](https://kometa.dev/) - A free and open-source component library built with Tailwind CSS.
 * [Daisy UI](https://daisyui.netlify.app/) - A free and open-source component library built with Tailwind CSS.
 * [Hyper UI](https://hyper.design/) - A free and open-source component library built with Tailwind CSS.
+* [Headless UI](https://github.com/tailwindlabs/headlessui) - A set of completely unstyled, fully accessible UI components for building custom designs with Tailwind CSS.
 * [Tailwind UI](https://tailwindui.com/) - A premium set of UI components and templates built by the creators of Tailwind CSS.
 * [Forms](https://github.com/tailwindlabs/forms) - A collection of beautiful form elements designed for Tailwind CSS.
 * [Heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for your projects.
@@ -25,13 +26,13 @@ A curated list of Tailwind CSS libraries, plugins, and other useful content.
 * [Tailwind CSS Safe Links](https://github.com/auditool/tailwindcss-safe-links) - A plugin to add rel="noopener" attribute to external links for improved security.
 * [Tailwind CSS Typography Plugin](https://github.com/tailwindlabs/tailwindcss-typography) - A plugin to bring better typography defaults to your Tailwind project.
 
-## Plugins
+## Plugins 🔌
 
 * [Tailwind CSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) - A plugin that enables you to use Tailwind CSS in a JIT (Just-in-Time) mode.
 * [Tailwind CSS IntelliSense](https://github.com/tailwindlabs/tailwindcss-intellisense) - A plugin that provides IntelliSense support for Tailwind CSS in VS Code.
 * [Tailwind CSS PostCSS Preset](https://github.com/tailwindcss/postcss-preset-tailwind) - A postcss preset that helps you to use Tailwind CSS with PostCSS.
 
-## Resources
+## Resources 📚
 
 * [Tailwind CSS Documentation](https://tailwindcss.com/docs/) - The official documentation for Tailwind CSS.
 * [Tailwind CSS Tutorials](https://github.com/tailwindlabs/tailwindcss/wiki/Tutorials) - A collection of tutorials on how to use Tailwind CSS.
